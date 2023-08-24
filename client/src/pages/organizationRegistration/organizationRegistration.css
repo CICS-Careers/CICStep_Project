@@ -1,0 +1,76 @@
+
+.registrationForm{
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+    padding: 10px;
+    /*font-family: "Helvetica", "SansSerif", serif;*/
+}
+
+.registrationLabel{
+    color: #881C1C;
+    margin-top: 4px;
+    margin-bottom: 3px;
+}
+
+.registrationInput{
+    height: 23px;
+    background-color: #FBE7C6;
+    border: none;
+}
+
+.registrationTextArea{
+    height: 70px;
+    background-color: #FBE7C6;
+    border: none;
+    resize: none;
+}
+
+.registrationChooseFileBtn{
+    height: 20px;
+    font-size: 10px;
+    color: #FFFFFF;
+    background-color: #505759;
+    border: none;
+    padding: 3px 10px 3px 10px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.registrationFileName{
+    color: #881C1C;
+    font-size: 10px;
+    margin-left: 10px;
+    justify-content: center;
+}
+
+.registrationBtns{
+    display: flex;
+    height: 23px;
+}
+
+.registrationCloseBtn{
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    background-color: #BFBFBF;
+    border: none;
+    cursor: pointer;
+}
+
+.registrationRegisterBtn{
+    width: 100%;
+    height: 100%;
+    color: #FFFFFF;
+    font-size: 12px;
+    background-color: #881C1C;
+    border: none;
+    cursor: pointer;
+}
+
+.addAnother {
+    color: #881C1C;
+    margin-top: 4px;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
