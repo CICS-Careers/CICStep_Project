@@ -1,0 +1,61 @@
+.clubEventContainer{
+    width: 240px;
+    font-size: 9px;
+}
+
+.img{
+    width: 100%;
+}
+
+.contentContainer{
+    padding: 10px;
+}
+
+.event{
+    font-size: 16px;
+}
+
+.organization{
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.dateTimeRow{
+    display: flex;
+    margin-top: 15px;
+}
+
+.date{
+    width: 100%;
+}
+
+.time{
+    width: 100%;
+}
+
+.location{
+    margin-top: 5px;
+}
+
+.description{
+    margin-top: 20px;
+}
+
+.contactInfo{
+    margin-top: 15px;
+}
+
+.contactInfoEl{
+
+}
+
+.registerBtn{
+    width: 100%;
+    height: 30px;
+    color: white;
+    font-size: 16px;
+    background-color: #881C1C;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+}
